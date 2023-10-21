@@ -1,4 +1,4 @@
-<p> Seja Bem Vindo (a) ao nosso catálogo de filmes! </p>
+<p> Seja Bem Vindo (a) ao nosso catálogo de filmes!🍿 </p>
 
 
 ### TÓPICOS:
