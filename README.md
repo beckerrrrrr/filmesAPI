@@ -1,5 +1,3 @@
-# <img scr = url("https://cdn-icons-png.flaticon.com/512/2798/2798007.png")  width="100" height="100" >
-
 <p> Seja Bem Vindo (a) ao nosso catálogo de filmes! </p>
 
 
