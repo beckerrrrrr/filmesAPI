@@ -1,0 +1,31 @@
+button {
+    display: block;
+    position: absolute;
+    width: 420px;
+    height: 55px;
+    font-size: 25px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: #fff;
+    font-family: 'Luckiest Guy', Arial, sans-serif;;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 10%; 
+}
+
+button:hover{
+
+    background-color: blue;
+    transition: calc(.2s);
+    cursor: pointer;
+
+}
+@media (max-width: 768px) {
+    button {
+        width: 200px;
+        height: 55px;
+        font-size: 15px;
+        bottom: 12%; 
+    }
+}

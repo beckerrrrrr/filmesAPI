@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   background-color: aliceblue;
+}
+h1.title{
+    color: black;
+    padding: 10px;
+    background: linear-gradient(to bottom, rgb(32, 40, 150), rgb(97, 179, 231));
+    font-family: 'Luckiest Guy', Arial, sans-serif;
+}
+form{
+    margin-top: 10px;
+    padding: 10px ;
+    border: 3px, solid, black;
+    border-radius: 20px;
+    display: flex;
+}
+form input{
+    border-radius: 25px;
+    border-color: transparent;
+    background-color: rgb(115, 160, 245);
+    padding: 10px;
+    border: none;
+    outline: none;
+    flex: 1;
+}
+form button{
+    font-family: 'Luckiest Guy', Arial, sans-serif;
+    padding: 5px 10px;
+    border:none;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(61, 61, 194);
+    cursor: pointer;
+}
+form button:hover{
+    background-color: blue;
+    transform: scale(1.10);
+    transition: calc(.2s);
+}
+
+div.lista{
+    margin-top: 10px;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div.itens{
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    border: 2px solid rgb(0, 170, 255);
+    margin: 5px;
+    border-radius: 5px;
+    font-family: 'Luckiest Guy', Arial, sans-serif;
+}
+
+div.itens:hover{
+    background-color: blue;
+    transform: scale(1.10);
+    transition: calc(.2s);
+    cursor: pointer;
+}
+.capaFilme{
+    width: 100%;
+}
+
+
