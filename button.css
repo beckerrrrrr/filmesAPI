@@ -11,7 +11,7 @@ button {
     font-family: 'Luckiest Guy', Arial, sans-serif;;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 10%; 
+    bottom: 5%; 
 }
 
 button:hover{
